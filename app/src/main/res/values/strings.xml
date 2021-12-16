@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minha Idade Atual</string>
+    <string name="txt_primeiro_nome">Qual seu primeiro nome?</string>
+    <string name="txt_hint_primeiro_nome">Informe o seu primeiro nome...</string>
+    <string name="txt_ano_nascimento">Em que ano você nasceu?</string>
+    <string name="txt_hint_ano_nascimento">Informe o ano do seu nascimento...</string>
+    <string name="btn_calcular_idade">Calcular Idade</string>
+    <string name="btn_novo_calculo">Novo Calculo</string>
+    <string name="btn_sair">Sair</string>
+    <string name="txt_titulo">Minha Idade</string>
+</resources>
